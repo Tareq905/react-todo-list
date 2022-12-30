@@ -1,0 +1,8 @@
+.todos{
+    width: 50%;
+    background-color: rgb(185, 98, 63);
+    padding: 0.5rem;
+    border-radius: 0.6rem;
+    overflow: scroll;
+    height: 60vh;
+}
